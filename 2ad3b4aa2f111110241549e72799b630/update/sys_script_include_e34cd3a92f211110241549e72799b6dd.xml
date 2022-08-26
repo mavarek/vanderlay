@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_664961_vanderlay.vanderlayUtils</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description>Shared function library. I'm beginner so need to refactor everything since I suck</description>
+        <name>vanderlayUtils</name>
+        <script><![CDATA[var vanderlayUtils = Class.create();
+vanderlayUtils.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+
+    type: 'vanderlayUtils'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-26 13:23:58</sys_created_on>
+        <sys_id>e34cd3a92f211110241549e72799b6dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>vanderlayUtils</sys_name>
+        <sys_package display_value="vanderlay" source="x_664961_vanderlay">2ad3b4aa2f111110241549e72799b630</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="vanderlay">2ad3b4aa2f111110241549e72799b630</sys_scope>
+        <sys_update_name>sys_script_include_e34cd3a92f211110241549e72799b6dd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-26 13:23:58</sys_updated_on>
+    </sys_script_include>
+</record_update>
