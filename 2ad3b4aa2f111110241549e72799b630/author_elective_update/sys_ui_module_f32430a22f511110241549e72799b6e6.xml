@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application/>
+        <filter/>
+        <name>Products</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_664961_vanderlay.products_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 17:25:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f32430a22f511110241549e72799b6e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Products</sys_name>
+        <sys_package display_value="vanderlay" source="x_664961_vanderlay">2ad3b4aa2f111110241549e72799b630</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="vanderlay">2ad3b4aa2f111110241549e72799b630</sys_scope>
+        <sys_update_name>sys_ui_module_f32430a22f511110241549e72799b6e6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-16 17:25:31</sys_updated_on>
+        <table>x_664961_vanderlay_products</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="vanderlay">2ad3b4aa2f111110241549e72799b630</application>
+        <file_path/>
+        <instance_id>bd454f88db54b380f492c5970596195b</instance_id>
+        <instance_name>dev75150</instance_name>
+        <name>sys_ui_module_f32430a22f511110241549e72799b6e6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application/><filter/><name>Products</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_664961_vanderlay.products_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-16 17:25:31</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f32430a22f511110241549e72799b6e6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Products</sys_name><sys_package display_value="vanderlay" source="x_664961_vanderlay">2ad3b4aa2f111110241549e72799b630</sys_package><sys_policy/><sys_scope display_value="vanderlay">2ad3b4aa2f111110241549e72799b630</sys_scope><sys_update_name>sys_ui_module_f32430a22f511110241549e72799b6e6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-16 17:25:31</sys_updated_on><table>x_664961_vanderlay_products</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>286031013</payload_hash>
+        <record_name>Products</record_name>
+        <reverted_from/>
+        <source>ead3b4aa2f111110241549e72799b632</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 17:26:42</sys_created_on>
+        <sys_id>9d7438a22f511110241549e72799b66c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182a7b17b9f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-16 17:26:42</sys_updated_on>
+        <type>Module</type>
+        <update_guid>c83430a253511110d9deb9fd252afee8</update_guid>
+        <update_guid_history>c83430a253511110d9deb9fd252afee8:270591168,c83430a253511110d9deb9fd252afee8:270591168</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-16 17:26:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>29bdd0fb395242688fb3146468b0fa40</sys_id>
+        <sys_metadata>f32430a22f511110241549e72799b6e6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Products</sys_name>
+        <sys_package display_value="vanderlay" source="x_664961_vanderlay">2ad3b4aa2f111110241549e72799b630</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="vanderlay">2ad3b4aa2f111110241549e72799b630</sys_scope>
+        <sys_scope_delete display_value="">2fd0daba0bfc45ac8aba8a73f2ae7e10</sys_scope_delete>
+        <sys_update_name>sys_ui_module_f32430a22f511110241549e72799b6e6</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_f32430a22f511110241549e72799b6e6">9d7438a22f511110241549e72799b66c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-16 17:26:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
